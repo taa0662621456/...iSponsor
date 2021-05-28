@@ -39,6 +39,6 @@
     "query": "^0.2.0",
     "sass-loader": "^7.0.1",
     "symfony-collection": "github:ninsuo/symfony-collection",
-    "tinymce": "^5.0.16"
+    "tinymce": "^5.7.1"
   }
 }
